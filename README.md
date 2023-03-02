@@ -29,7 +29,7 @@
 * Evaluate 
 
 ### Table of Contents - Credit Card Default
-* Fetching the dataset - bestcard.csv
+* Fetching the dataset - BestCard_data.csv
 *  EDA
 * Creating a test set
 * Transforming Dataset
