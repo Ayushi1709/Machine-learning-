@@ -6,7 +6,7 @@
 ### Credit Card Default 
 
 ### Table of Contents - Predicting Housing Price
-* Describing the dataset
+* Describing the dataset - housing.csv
 * Creating a test set 
 * Stratified Sampling
 * Discover and Visualize data 
@@ -29,7 +29,7 @@
 * Evaluate 
 
 ### Table of Contents - Credit Card Default
-* Fetching the dataset
+* Fetching the dataset - bestcard.csv
 *  EDA
 * Creating a test set
 * Transforming Dataset
